@@ -1,5 +1,14 @@
+/*
+compiler:C99
+project: Library management
+Author: LION-I
+Date: July,2021
+Licence: MIT
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
+
 
 
 
